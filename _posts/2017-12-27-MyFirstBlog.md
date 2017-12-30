@@ -1,6 +1,6 @@
 ---
 title: 第一篇博客与一些小总结
-description: 简单的尝试
+description: ”为什么会变成这样呢（沉思”
 categories:
  - 随笔
 tags:
